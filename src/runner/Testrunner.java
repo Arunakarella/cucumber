@@ -12,4 +12,13 @@ public class Testrunner {
 	    
 	
 	}
+	
+	@Test 
+	public void postjiraz() {
+		System.out.println("postJira8");
+	    System.out.println("Postjira6");
+	    System.out.println("Post jira33");
+	    
+	
+	}
 }
